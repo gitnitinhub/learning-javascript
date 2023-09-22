@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.bg-img-lg{
+    background-image: url('./images/home1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh; 
+    filter: blur(5px);
+}
