@@ -1,6 +1,6 @@
 body{
     background-color: rgb(85, 84, 84);
-    /* background-image: url("https://plus.unsplash.com/premium_photo-1664361480105-33afc4559c40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1846&q=80"); */
+    /* background- image: url("https://plus.unsplash.com/premium_photo-1664361480105-33afc4559c40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1846&q=80"); */
 }
 
 
@@ -12,3 +12,14 @@ body{
     background-color: green;
     
 }
+
+p{
+    text-align: left;
+    font-weight: 600;
+}
+
+#txt{
+    text-align: center;
+    text-decoration: underline overline red;
+}
+
