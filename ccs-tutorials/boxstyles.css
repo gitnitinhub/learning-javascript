@@ -27,20 +27,19 @@ p{
 
 button{
     background-color: blueviolet;
+    height: 80px;
+    width: 80px;
     color: azure;
-    border-radius: 30px;
-    border: none;
+    border-radius: 50%;
+    border: 5px dashed rgb(203, 170, 235);
 }
 
+/*practice set 3*/
+
 div{
-    margin-top: 30px;
-    padding-top: 30px;
-    /* text-align: center; */
-    height: 50px;
-    
-    /* border: 2px dotted red; */
-    background-color: blueviolet;
-    color: azure;
-    border-radius: 30px;
+   height: 100px;
+   width: 100px;
+   background-color: greenyellow;
+   border-radius: 50%;
 
 }
