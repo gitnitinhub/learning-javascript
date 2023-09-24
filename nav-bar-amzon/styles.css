@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+div{
+    background-color: #0f1111;
+    height: 60px;
+}
+
+#logo{
+    color: orange;
+    font-size: 25px;
+}
+
+a{
+    color:azure;
+    text-decoration: none;
+    margin-right: 200px;
+}
+
+button
+{
+    background-color: yellow;
+}
