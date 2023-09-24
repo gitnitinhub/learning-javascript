@@ -12,10 +12,13 @@ body{
     background-color: green;
     
 }
-
+ /* text properties */
 p{
     text-align: left;
     font-weight: 600;
+    line-height: 30px;
+    text-transform: capitalize;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 #txt{
