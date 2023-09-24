@@ -1,3 +1,7 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
 body{
     background-color: rgb(85, 84, 84);
     /* background- image: url("https://plus.unsplash.com/premium_photo-1664361480105-33afc4559c40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1846&q=80"); */
@@ -18,7 +22,7 @@ p{
     font-weight: 600;
     line-height: 30px;
     text-transform: capitalize;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-family: 'Courier New', Courier, monospace; */
 }
 
 #txt{
@@ -26,3 +30,27 @@ p{
     text-decoration: underline overline red;
 }
 
+
+/* practise set 2  */
+#ps2{
+    text-align: center;
+    text-transform: capitalize;
+    color: azure;
+    text-decoration: underline overline azure;
+}
+
+
+#outer{
+    font-size: 50px;
+    text-transform: capitalize;
+}
+
+#inner{
+    font-size: 25px;
+}
+
+#span-outer,#span-inner{
+    text-decoration: underline wavy azure;
+}
+
+/* practise set 2 ends level 1 completed */
