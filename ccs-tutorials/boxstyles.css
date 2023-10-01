@@ -12,22 +12,22 @@
 #header{
    height: 100px;
    width: 100%;
-   border: 2px solid gray;
+   /* border: 2px solid gray; */
    opacity: 0.75;
 }
  
 #content{
  height: 400px;
  width: 100%;
- border: 2px solid black;
+ /* border: 2px solid black; */
  background-color: black;
  opacity: 0.5;
 }
 
 #footer{
-    height: 140px;
+    height: 166px;
     width: 100%;
-    border:2px solid #0f1111;
+    /* border:2px solid #0f1111; */
     background-color: black;
     opacity: 0.25;
 }
