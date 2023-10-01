@@ -1,43 +1,39 @@
 *{
     font-family: 'Courier New', Courier, monospace;
-    /* margin:0;
-    padding:0; */
-    text-align: center;
-    background-color: rgb(48, 2, 91);
-}
-
-h1{
-    text-transform: capitalize;
-    text-align: center;
-    background-color: blueviolet;
-    color: azure;
-    border-radius: 30px;
-    
+    margin:0;
+    padding:0;
+    /* text-align: center; */
+    /* background-color: rgb(48, 2, 91); */
 }
 
 
-p{
-    text-align: center;
-    line-height: 20px;
-    background-color: blueviolet;
-    color: azure;
-    border-radius: 30px;
-    
-}
 
-button{
-    background-color: blueviolet;
-    height: 80px;
-    width: 80px;
-    color: azure;
-    border-radius: 50%;
-    border: 5px dashed rgb(203, 170, 235);
-}
 
-/*practice set 3*/
-
-div{
+#header{
    height: 100px;
-   width: 100px;
+   width: 100%;
    border: 2px solid blue;
+}
+
+
+
+#navbar{
+    background-color: #0f1111;
+    height: 100px;
+}
+
+#logo{
+    color: orange;
+    font-size: 25px;
+}
+
+a{
+    color:azure;
+    text-decoration: none;
+    margin-right: 200px;
+}
+
+button
+{
+    background-color: yellow;
 }
