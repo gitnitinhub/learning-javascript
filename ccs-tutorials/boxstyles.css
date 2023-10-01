@@ -39,7 +39,5 @@ button{
 div{
    height: 100px;
    width: 100px;
-   background-color: greenyellow;
-   border-radius: 50%;
-
+   border: 2px solid blue;
 }
