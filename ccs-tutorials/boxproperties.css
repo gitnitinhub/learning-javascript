@@ -5,6 +5,7 @@
  
 body{
     background-color: blueviolet;
+    /* padding-top: 60px; */
     
 }
 
@@ -13,12 +14,41 @@ h1{
     text-decoration: underline;
     text-transform: capitalize;
     color: azure;
+    
 }
 
 p{
     color: azure;
 }
 
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#navbar{
+    background-color: #0f1111;
+    height: 60px;
+    position: sticky;
+    width: 100%;
+    top: 0;
+}
+
+#logo{
+    color: orange;
+    font-size: 25px;
+}
+
+a{
+    color:azure;
+    text-decoration: none;
+    margin-right: 200px;
+}
+
+button
+{
+    background-color: yellow;
+}
 
 #chatbot{
     height: 80px;
@@ -30,4 +60,7 @@ p{
     bottom: 50px;
     border-radius: 50% 50% 10% 50%;
     text-align: center;
+}
+#content{
+    /* margin-top: 60px; */
 }
