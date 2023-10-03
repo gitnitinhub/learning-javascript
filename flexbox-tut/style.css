@@ -1,0 +1,21 @@
+
+body{
+    text-align: center;
+}
+h1{
+ text-align: center;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+}
+#out-div{
+    display: flex;
+    /* padding-top: 20px; */
+    width: 800px;
+    height: 200px;
+    border: 2px solid black;
+} 
