@@ -25,6 +25,7 @@ top: 0;
 left: 0;
 z-index: 1;
 animation: item-1_move 2s cubic-bezier(.6,.01,.4,1) infinite;
+
 }
 
 .item-2 {
