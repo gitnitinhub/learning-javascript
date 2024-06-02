@@ -9,9 +9,7 @@
  )                //bad way to write a code
 
  /*
- console.log("Nitin") console.log("Nitin Goswami") 
- >>>>>>>>>>>>>>>>>>>bad way to write the code use console in another line or
-                    use semicolon
+ console.log("Nitin") console.log("Nitin Goswami") >>bad way to write the code use console in another line or use semicolon
 */
 
 let name = "Nitin"          //data type : String
