@@ -20,7 +20,8 @@ console.table([toCheck,emailCheck,passCheck,noVariable,notDefined])
 /*
 // error shown
 >>>> const can not be reassigned with same name and different value
-
+Never use var to declare any variable as it is insecure and old method always 
+use let or const
 -----------------------------------------------------------------------------
 
 >>>>output VVVVVVVVVVVVVVVVVVVVVVVVVVVVV
