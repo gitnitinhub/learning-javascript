@@ -15,3 +15,17 @@ let numberscore = Number(convertscore)
 console.log(typeof numberscore) //number
 
 
+let strnum = '33ab' //(can this be convert to num)
+console.log(`strnum = ${typeof strnum}`)
+
+let num = Number(strnum)
+console.log(`num = ${typeof num}, ${num}`) // here the 33ab will be converted to NaN as number because it has charters also
+
+/*
+conversions of Boolean
+
+1 => true; 0 => false
+"" => false
+"nitin" => true
+
+*/
