@@ -20,7 +20,7 @@ let id2 = Symbol(123)
 console.log(id==id2) //false
 console.log(id,id2)  //Symbol(123) Symbol(123) 
 
-console.log(typeof Symbol)
+console.log(typeof Symbol) 
 
 /*
 
