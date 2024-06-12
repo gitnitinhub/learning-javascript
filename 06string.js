@@ -34,4 +34,11 @@ console.log(nstring.trimEnd())          //output:               stringwithspacea
 
 //replace
 const url = "https://nitingoswami.com/nitin%20goswami"
-console.log(url.replace("%20",'-'))
+console.log(url.replace("%20",'-'))     //output: https://nitingoswami.com/nitin-goswami [replaces the char in string]
+
+//includes
+console.log(url.includes("nitin"))      //output: true [includes used to check if the substr or char is in the asked string]
+
+//split
+const strsplit = "nitin-is-going-to-be-seo"
+console.log(strsplit.split('-'))        //output: [ 'nitin', 'is', 'going', 'to', 'be', 'seo' ] [this split method is used to seperate a string on basis of given arguments and covert the string into array]
