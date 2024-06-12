@@ -10,3 +10,6 @@ const min = 10
 const max = 20
 
 console.log(Math.floor(Math.random()*10)+(max - min + 1)) //to get output in specific range 
+
+
+'https://youtube.com/clip/Ugkxj_wiGxuUufnUJPP-K--vxz3sGyOE6Sby?si=jTZQaiWk3SJ5MFcW' //visit this for info on max min random number
