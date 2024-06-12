@@ -31,3 +31,7 @@ let nstring = "              stringwithspaceatbothend               "
 console.log(nstring.trim())             //output: stringwithspaceatbothend [trim remove spaces from both the end]
 console.log(nstring.trimStart())        //output: stringwithspaceatbothend               [trim start remove space from start only]
 console.log(nstring.trimEnd())          //output:               stringwithspaceatbothend [trim end remove space from end only]
+
+//replace
+const url = "https://nitingoswami.com/nitin%20goswami"
+console.log(url.replace("%20",'-'))
